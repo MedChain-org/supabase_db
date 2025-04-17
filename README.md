@@ -1,6 +1,6 @@
 # Supabase Database Backup
 
-This repository contains a backup of the Supabase database schema for the Buildwithcode project.
+This repository contains a backup of the Supabase database schema for the MedChain project.
 
 ## Contents
 
